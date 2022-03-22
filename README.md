@@ -1,5 +1,9 @@
 # Телеграм БОТ
 
+Нужно создать .env файл с токенами:
+WEATHER_API_KEY = Open Weather api key
+BOT_TOKEN = Токен бота телеграм
+
 старт => npm start (или node index.js);
 
 нужно в constants.js изменить BOT_TOKEN на свой или стучаться к боту @Kosteyyy_first_bot
